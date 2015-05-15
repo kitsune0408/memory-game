@@ -81,6 +81,42 @@
   <ItemGroup>
     <Folder Include="Resources\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p003.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p005.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p006.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p007.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p008.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p010.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p011.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\p012.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

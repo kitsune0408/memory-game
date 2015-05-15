@@ -18,6 +18,7 @@ namespace MemoryGame
         string[,] matrix = new string[4, 6];
         //array with images
         string[] images = new string[] {
+
             Path.Combine(Environment.CurrentDirectory, @"Images\p001.png"),
             Path.Combine(Environment.CurrentDirectory, @"Images\p002.png"),
             Path.Combine(Environment.CurrentDirectory, @"Images\p003.png"),
