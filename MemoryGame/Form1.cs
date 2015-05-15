@@ -105,6 +105,7 @@ namespace MemoryGame
         //restart game button
         private void restartGame(object sender, EventArgs e)
         {
+            triesLabel.Text = "Tries left: 3";
             triesLeft = 2;
             secondPress = false;
             //enabling buttons
